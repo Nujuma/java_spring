@@ -16,6 +16,8 @@ public class DirectoryScanRunner {
 		// TODO Auto-generated method stub
 		//List the files in the current directory
 		
+		 System.out.println("current path is updated--------------------" );
+		  
 
 		//  System.out.println(" list files  in the root directory ");
 		 
