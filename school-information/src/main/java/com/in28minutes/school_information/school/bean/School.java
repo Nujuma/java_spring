@@ -23,7 +23,7 @@ public class School
 
 	@Override
 	public String toString() {
-		return "School [schoolId=" + schoolId + ", schoolName=" + schoolName + ", schoolScore=" + schoolScore
+		return "School [schoolIdnew=" + schoolId + ", schoolName=" + schoolName + ", schoolScore=" + schoolScore
 				+ ", principalName=" + principalName + "]";
 	}
 
